@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Build UI With Layout Editor</string>
+    <string name="leftTop_cornerText">LeftTop</string>
+    <string name="rightTop_cornerText">RightTop</string>
+    <string name="leftBot_cornerText">LeftBottom</string>
+    <string name="rightBot_cornerText">RightBottom</string>
+    <string name="hello_android">Hello Paissa!</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">E04_BuildUIWithLayoutEditor2</string>
+    <string name="firstName">First name</string>
+    <string name="lastName">Last name</string>
+    <string name="jobTitle">Job Title</string>
+    <string name="employeeInfo">Employee information here..</string>
+    <string name="bottom1">1</string>
+    <string name="bottom2">2</string>
+    <string name="bottom3">3</string>
+    <string name="bottom4">4</string>
+    <string name="bottom5">5</string>
+    <string name="basic_text">"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."</string>
+</resources>
