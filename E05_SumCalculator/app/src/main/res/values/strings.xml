@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">E05_SumCalculator</string>
+    <string name="calculatorTitle">Calculator</string>
+    <string name="b1">7</string>
+    <string name="b2">8</string>
+    <string name="b3">9</string>
+    <string name="b4">*</string>
+    <string name="b5">4</string>
+    <string name="b6">5</string>
+    <string name="b7">6</string>
+    <string name="b8">-</string>
+    <string name="b9">1</string>
+    <string name="b10">2</string>
+    <string name="b11">3</string>
+    <string name="b12">+</string>
+    <string name="b13">0</string>
+    <string name="b14">C</string>
+    <string name="b15">=</string>
+
+
+</resources>
