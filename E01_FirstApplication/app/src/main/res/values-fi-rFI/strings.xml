@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ensimmäinen sovellus</string>
+    <string name="button_text">Paina tästä!</string>
+    <string name="hello_text">Terve maailma!</string>
+    <string name="clicked_text">Painike painettu!</string>
+</resources>
